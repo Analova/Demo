@@ -1,10 +1,12 @@
 import React from "react";
-//require("../../scss/styles.css");
+import UsersList from "../containers/users-list";
+//require("../../scss/styles.scss");
 
 const App = () => {
   return (
     <div>
       <h2>Username List</h2>
+      <UsersList />
       <hr />
       <h2>UserDetails</h2>
     </div>

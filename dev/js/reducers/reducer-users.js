@@ -2,7 +2,7 @@ export default function () {
   return [
     {
       id: 1,
-      first: "Bucky",
+      first: "John",
       last: "Roberts",
       age: 71,
       description: "Bucky is a React developer and YouTuber",
@@ -10,7 +10,7 @@ export default function () {
     },
     {
       id: 2,
-      first: "Joby",
+      first: "Rebecca",
       last: "Wasilenko",
       age: 27,
       description: "Joby loves the Packers, cheese, and turtles.",
@@ -18,7 +18,7 @@ export default function () {
     },
     {
       id: 3,
-      first: "Madison",
+      first: "Doe",
       last: "Williams",
       age: 24,
       description: "Madi likes her dog but it is really annoying.",
